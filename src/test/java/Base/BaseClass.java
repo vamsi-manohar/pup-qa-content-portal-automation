@@ -29,6 +29,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class BaseClass {
 
 	
+	
 	public WebDriver driver;
 
 	PropertiesFileReader obj = new PropertiesFileReader();
