@@ -31,6 +31,7 @@ public class BaseClass {
 	
 	
 	
+	
 	public WebDriver driver;
 
 	PropertiesFileReader obj = new PropertiesFileReader();
